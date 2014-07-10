@@ -1,4 +1,7 @@
 cram_pr2
 ========
 
-CRAM packages related to the PR2, e.g. process modules, or costmaps.
+"The software represented by this stub repository is partly being
+developed in the context of the RoboHow EU project
+(http://www.robohow.eu). Its original content can be found at
+https://github.com/cram-code/cram_pr2."
